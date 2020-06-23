@@ -1,0 +1,6 @@
+echo "# script phising " 》 READMED.md
+git init
+git add READMED.md
+git commit -m "script"
+git remote add origin https://github.com/MrSkinyHunter/phisingscript.git
+git push -u origin master
